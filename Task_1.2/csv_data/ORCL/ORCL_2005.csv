@@ -1,0 +1,634 @@
+1," Item 1. Business ##TABLE_END &#160; 
+
+General 
+
+&#160; 
+
+We are the world&#146;s largest enterprise software company. We develop, manufacture, market, distribute, and service database and middleware software as well as applications software designed to help our customers manage and grow their business operations. 
+
+&#160; 
+
+Our goal is to offer customers with scalable, reliable, secure and integrated database and middleware and applications software that provides transactional efficiencies, adapts to an organization&#146;s unique needs and allows better ways to access and manage information at a low total cost of ownership. We seek to be an industry leader in each of the specific product categories in which we compete and to expand into new and emerging markets. In fiscal 2005, we focused on strengthening our market position and enhancing our existing portfolio of products and services as well as acquiring and integrating businesses that we believe will improve our competitive position, expand our customer base, provide greater scale to increase our research and development and accelerate innovation. 
+
+&#160; 
+
+In January 2005, we completed the acquisition of PeopleSoft, Inc., a provider of enterprise application software products for approximately $11.1 billion. We have completed the substantial majority of our planned legal-entity mergers, information system conversions and integration of PeopleSoft&#146;s operations and expect to finalize our remaining integration activities within the next six months. In April 2005, we completed the acquisition of Retek, Inc., a provider of software solutions and services to the retail industry for approximately $700 million. We also completed other smaller acquisitions over the past several years and expect to continue to acquire or make investments in complementary companies, products, services and technologies in the future. See Note 2 of Notes to Consolidated Financial Statements for additional information related to our acquisitions. 
+
+&#160; 
+
+Oracle Corporation was incorporated in 1986 as a Delaware corporation and is the successor to operations originally begun in June 1977. 
+
+&#160; 
+
+Software and Services 
+
+&#160; 
+
+We are organized into two businesses, software and services. Our software business is further organized into two operating segments: (1) new software licenses and (2) software license updates and product support. Our services business is further organized into three operating segments: (1) consulting, (2) advanced product services and (3) education. Our software business represented 80%, 79% and 76% of total revenues and our services business represented 20%, 21% and 24% of total revenues in fiscal 2005, 2004 and 2003, respectively. See Note 16 of Notes to Consolidated Financial Statements for additional information related to our operating segments. 
+
+&#160; 
+
+Software Business 
+
+&#160; 
+
+New Software Licenses 
+
+&#160; 
+
+New software licenses include the licensing of database and middleware software, which consists of the Oracle Database and Oracle Fusion Middleware, as well as applications software. Our technology and business solutions are based on an internet e-business model comprised of interconnected database servers, application servers, web servers and desktop computers or mobile devices running web browsers. This architecture enables end users to access business data and applications through a universally adopted web browser interface, while providing enterprises the most efficient and cost effective method of managing business information and applications. 
+
+&#160; 
+
+In an internet e-business model, database servers manage and protect the underlying business information, while application servers run the business applications that automate a myriad of business functions. We have focused on concepts such as global single instance application deployment that establishes fewer, high quality databases of important business information, rather than dozens or hundreds of disparate databases that are difficult to synchronize and coordinate. Our integrated, component-based architecture achieves high quality business information and can be adapted to the specific needs of any industry or application. Oracle technology also operates on multiple systems including Linux, UNIX, mainframes and Windows. 
+
+&#160; 
+
+New software license revenues include all fees earned from granting customers licenses to use our software products and exclude revenues derived from software license updates and product support. The standard end user software license agreement for our products provides for an initial fee to use the product in perpetuity based on a maximum number of processors, named users or other metrics. We also have other types of software license agreements restricted by the number of employees or the license term. New software license revenues represented 35% of total revenues in fiscal 2005, 2004 and 2003. 
+
+&#160; 
+
+Database and Middleware Software 
+
+&#160; 
+
+Our grid software provides a cost-effective, high-performance platform for running and managing virtually any type of business application for companies of any size. With an increasing focus on low-cost, high volume server and storage components, Oracle grids are designed to accommodate demanding business environments, while providing the ability to assign and reassign computing power to various applications. This ability to reconfigure computing resources as needed simplifies computing capacity, planning and procurement. With a grid infrastructure approach, customers do not need to purchase excess hardware or be caught with too little computing power during high traffic periods. New software license revenues from database and middleware products represented 81%, 82% and 81% of new software license revenues in fiscal 2005, 2004 and 2003, respectively. 
+
+&#160; 
+
+Oracle Database 
+
+&#160; 
+
+The Oracle relational database management system is a key component of a grid infrastructure and enables the storage, manipulation and retrieval of virtually any type of data including traditional relational data, XML, OLAP cubes, documents, images and many others. 
+
+&#160; 
+
+The Oracle Database is unique in that it can run applications with a very high degree of scalability and reliability across multiple low cost computers clustered together. This is achieved by using Oracle Real Application Clusters, a clustered configuration of Oracle 10g Databases that creates a single, scalable and fault tolerant database from an interconnected cluster of inexpensive, high-volume servers. To increase computing capacity, our customers can simply add computers to the cluster, and the database software adapts to utilize the additional computing resources. This significantly improves application scalability and availability without requiring users to modify their applications or purchase excess computing capacity. Customers can achieve significant cost savings by eliminating dedicated fail-over servers, and by using lower-cost hardware as the basis of the cluster, instead of larger, more expensive computers. 
+
+&#160; 
+
+Oracle Database 10g also contains self-diagnosing and self-tuning features, as well as features that facilitate customers&#146; ability to build, deploy and manage internet applications at lower costs. The key features of the 
+
+&#160; 
+
+Oracle Database include improved database availability, functionality, enhanced security capabilities and an integrated infrastructure for building business intelligence applications. 
+
+&#160; 
+
+Oracle Fusion Middleware 
+
+&#160; 
+
+Oracle Fusion Middleware is the brand for Oracle&#146;s family of middleware products, which includes Oracle Application Server, Oracle Collaboration Suite, Oracle Developer Suite and Oracle Data Hub, among others. Oracle Fusion Middleware allows customers to easily integrate heterogeneous business applications and automate business processes and is built on industry standards such as J2EE, Business Process Execution Language and other web services standards. In addition, Oracle Fusion Middleware supports multiple development languages and tools, allowing developers to build and deploy web services, web sites, portals and web-based applications. Oracle&#146;s middleware is used to support Oracle applications, as well as other enterprise applications and independent software vendors that use Oracle Fusion Middleware as the basis to build their own custom applications. 
+
+&#160; 
+
+Oracle Application Server 
+
+&#160; 
+
+The foundation of Oracle Fusion Middleware is Oracle Application Server 10g. Designed for grid computing, Oracle Application Server 10g incorporates clustering and caching technology, which increases application reliability, performance, security and scalability. Oracle Application Server 10g also provides a complete integration platform that is designed to simplify and accelerate business, application and data integration projects. 
+
+&#160; 
+
+The new Identity Management option for Oracle Application Server 10g makes it easier for companies to manage multiple identities and access privileges, which helps to safeguard information, critical systems and applications against unauthorized access. 
+
+&#160; 
+
+Oracle Application Server 10g also includes Oracle Portal, which allows personalized portal sites to be rapidly developed and deployed, all with single sign-on and security. Portal sites are assembled using portlets, which are reusable interface components that provide access to web-based resources such as applications, business intelligence reports, syndicated content feeds and outsourced software services. With the wireless capability of Oracle Application Server 10g Enterprise Edition, portal sites can be made available to any wireless device. 
+
+&#160; 
+
+Oracle Collaboration Suite 
+
+&#160; 
+
+Oracle Collaboration Suite is a single, integrated suite that manages email and voicemail messages, facsimiles, calendaring, conferencing, instant messaging, file sharing, search and workflow. The Oracle Collaboration Suite centralizes administration and lowers operating costs by consolidating email and file servers. Additionally, users are provided with one folder for their email, files, voicemail and facsimile messages. The Oracle Collaboration Suite is built on the Oracle Database and Oracle Fusion Middleware, supports enterprise-scale implementations, and offers high-availability features such as rapid server failover, disaster recovery and automated backup. With Oracle Collaboration Suite, users access all their communications content via desktop applications, the internet, personal digital assistants or mobile phones, improving communication and collaboration. 
+
+&#160; 
+
+Oracle Developer Suite 
+
+&#160; 
+
+Oracle Developer Suite is an integrated suite of development tools designed to facilitate rapid development of internet database applications and web services. The Oracle Developer Suite contains application development and business intelligence tools and is built on internet standards such as Java, J2EE, XML and HTML. 
+
+&#160; 
+
+The Oracle Developer Suite includes Oracle JDeveloper, a Java development environment for modeling, building, debugging and testing enterprise-class J2EE applications and web services. In addition, the suite contains Oracle Designer, a tool that allows developers to model business processes and automatically generate enterprise database applications, and Oracle Forms Developer, a development tool for building database applications that can be deployed unchanged in both internet and client/server based environments. 
+
+&#160; 
+
+The Oracle Developer Suite also includes Oracle Warehouse Builder software that consolidates fragmented data and metadata (machine understandable information for the web) pulled from packaged applications, custom applications and legacy applications. Oracle Warehouse Builder enables developers to graphically design the multidimensional database schema and to automatically generate and load the data warehouse. 
+
+&#160; 
+
+Oracle Data Hub 
+
+&#160; 
+
+Data hubs serve as centralized data repositories for key business definitions such as customers, products and employees. The Oracle Customer Data Hub is a packaged solution that enables companies to create a single, high quality enterprise customer identity database by consolidating customer information from heterogeneous sources. After the data is consolidated into the central customer data store, it can be standardized, cleansed and enriched by use of embedded functionality and then used by other applications with near-real-time synchronization. The Oracle Customer Data Hub can operate independently of Oracle applications. The Oracle Customer Data Hub differs from a data warehouse in that it does not store information about every transaction involving a particular customer. It is specifically concerned with creating a high quality master customer list. Also, data hubs provide customer data quality management tools, and near-real-time operational access to a master customer list, whereas a data warehouse is typically used for analysis of historical and summarized data. The Oracle Customer Data Hub is designed to help companies gain a complete and consistent view of a customer across all transaction systems. Oracle has announced the creation of additional hubs to consolidate information related to products, financial information, or other data from a variety of systems and applications. 
+
+&#160; 
+
+Applications Software 
+
+&#160; 
+
+Oracle&#146;s portfolio of enterprise applications software includes the Oracle E-Business Suite, PeopleSoft Enterprise, JD Edwards EnterpriseOne and JD Edwards World. Each of our enterprise applications, which is offered as a fully integrated suite or available on a component basis, provides enterprise information that enables companies to manage their business cycles and provide intelligence in functional areas such as financials, human resources, maintenance management, manufacturing, marketing, order fulfillment, product lifecycle management, procurement, projects, sales, services and supply chain planning. Our applications are built on open architectures and are designed for flexible configuration and open, multi-vendor integration. 
+
+&#160; 
+
+Oracle&#146;s applications combine business functionality with innovative technologies such as workflow and self-service applications, to enable users to lower the cost of their business operations by providing customers, suppliers and employees with self-service internet access to both transaction processing and critical business information. Companies can use self-service applications to automate a variety of business functions, such as customer service and support, procurement, expense reporting and reimbursement. Each product line is also available in multiple languages and currencies, enabling companies to support both global and local business practices and legal requirements. 
+
+&#160; 
+
+Our applications can be tailored to offer customers a variety of industry-specific solutions. We recently improved our offerings to retail customers with our acquisition of Retek, Inc., providing software that connects every part of a retailer&#146;s business, from customer to supplier, with solutions for planning, merchandising, supply chain and in-store applications. New software license revenues from applications software represented 19%, 18% and 19% of new software license revenues in fiscal 2005, 2004 and 2003, respectively. 
+
+&#160; 
+
+Project Fusion 
+
+&#160; 
+
+Our vision for the future of our application products is Project Fusion , a next-generation, service-oriented platform and set of applications to be built on open industry standards, extensible by customers and partners and interoperable with third party and existing installations. Fusion is being designed to leverage the best functionality and combine the best features, flows and usability traits of the Oracle E-Business Suite, PeopleSoft and JD Edwards application products into one product line. We believe the resulting suite of applications will deliver a superior ownership experience through improved usability, adaptive business process automation, built-in business intelligence and industry-specific capabilities. 
+
+&#160; 
+
+&#160; 
+
+Software License Updates and Product Support 
+
+&#160; 
+
+Software license updates provide customers with rights to unspecified software product upgrades, maintenance releases and patches released during the term of the support period, which is typically one year. Product support includes internet access to technical content, as well as internet and telephone access to technical support personnel. Product support typically is provided by our global support centers. Software license updates and product support are generally priced as a percentage of the new software license fees. Substantially all of our customers purchase software license updates and product support when they acquire new software licenses. In addition, substantially all of our customers renew their software license updates and product support contracts annually. Software license updates and product support revenues represented 45%, 44% and 41% of total revenues in fiscal 2005, 2004 and 2003, respectively. We attribute the ongoing growth of our software license updates and product support revenues to the high renewal rate of our existing subscription base, an increase in our support contract base from acquisitions and an increase in the amount of new product support contracts associated with the sale of new software licenses. 
+
+&#160; 
+
+Services Business 
+
+&#160; 
+
+Consulting 
+
+&#160; 
+
+We globally deploy professionals who specialize in the design, implementation, deployment, upgrade and migration services for our database, middleware and applications software. We focus on implementing software with a number of consulting accelerators such as preconfigured business flows, all of which increase the pace at which our customers achieve value from our applications. Our consulting services help customers consolidate their information technology operations, integrate disparate systems and increase the security of their data assets. Consulting revenues represented 15%, 16% and 19% of total revenues in fiscal 2005, 2004 and 2003, respectively. 
+
+&#160; 
+
+Advanced Product Services 
+
+&#160; 
+
+Advanced product services are comprised of On Demand and advanced product support services. Through Oracle On Demand, we host, monitor, administer, upgrade and maintain our database, middleware and applications software for our customers either at Oracle or at a customer designated location. We believe Oracle On Demand enables our customers to lower information technology costs and improve their business efficiency as we manage the availability, security, performance and change management for our software. Our advanced product support services assist customers in configuration and performance analysis, personalized support and annual on-site technical services. Advanced product services revenues represented 3%, 3% and 2% of total revenues in fiscal 2005, 2004 and 2003, respectively. 
+
+&#160; 
+
+Education 
+
+&#160; 
+
+We provide training to customers, partners and employees as part of our mission of accelerating the adoption of our technology around the world. Our training is provided primarily through public and private instructor-led classroom events, but is also made available through a variety of online courses and self paced media training on CD-Roms. Education revenues represented 2%, 2% and 3% of total revenues in fiscal 2005, 2004 and 2003, respectively. 
+
+&#160; 
+
+Marketing and Sales 
+
+&#160; 
+
+Sales Distribution Channels 
+
+&#160; 
+
+In the United States, we market our products and services primarily through our own sales and service organization. Sales and service employees are based in our headquarters and in field offices throughout the United States. 
+
+&#160; 
+
+Outside the United States, we market our products and services primarily through our subsidiary sales and service organizations. Our subsidiaries license and support our products in their local countries as well as within other foreign countries where we do not operate through a direct sales subsidiary. 
+
+&#160; 
+
+&#160; 
+
+We also market our products worldwide through indirect channels. The companies that comprise our indirect channel network are members of the Oracle Partner Network. Our partners resell our products or combine our database, development tools and applications with computer hardware, software application packages or services for subsequent redistribution and/or implementation. 
+
+&#160; 
+
+The Oracle Partner Network allows us to pursue new business opportunities through partners as well as with direct customers. Partners in the program include consultants, education providers, internet service providers, network integrators, resellers, independent software vendors and system integrators/implementers. Partners can also participate in the Oracle Technology Network. This program is specifically designed for the database administrator, internet developer and applications suite user communities. We provide applications, technology, education and technical support that enable our partners to effectively integrate our products into their business offerings. The combination of Oracle&#146;s infrastructure and applications and our partners&#146; expertise broadens our exposure in new markets. 
+
+&#160; 
+
+International Markets 
+
+&#160; 
+
+We sell our products and provide services worldwide. Our geographic coverage allows us to draw on business and technical expertise from a worldwide workforce, provides stability to our operations and revenue streams to offset geography-specific economic trends and offers us an opportunity to take advantage of new markets for products. Our results of operations could be affected by economic and political uncertainty or changes in the laws or policies in the countries in which we operate and by macroeconomic changes, including currency rate fluctuations, recessions and inflation. A summary of our domestic and international revenues and long-lived assets is set forth in Note 16 of Notes to Consolidated Financial Statements. 
+
+&#160; 
+
+Seasonality 
+
+&#160; 
+
+General economic conditions have an impact on our business and financial results. The markets in which we sell our products and services have, at times, experienced weak economic conditions that have negatively affected revenues. Our quarterly results reflect distinct seasonality in the sale of our products and services, as our revenues are typically highest in our fourth fiscal quarter and lowest in our first fiscal quarter. See &#147;Quarterly Results of Operations&#148; in the Management&#146;s Discussion and Analysis of Financial Condition and Results of Operations section of this Form 10-K for a more complete description of the seasonality of our revenues and expenses. 
+
+&#160; 
+
+Customers 
+
+&#160; 
+
+Our customer base consists of a significant number of businesses of many sizes and industries, government agencies, educational institutions and resellers. No single customer accounted for 10% or more of revenues in fiscal 2005, 2004 or 2003. 
+
+&#160; 
+
+Competition 
+
+&#160; 
+
+The enterprise software industry is intensely competitive and evolving rapidly. We compete in various segments of this industry including database software, middleware (business intelligence, application integration, portal server, J2EE application server, development tools and identity management), collaboration, development tools, enterprise applications and consulting/systems integration, among others. Total cost of ownership, performance, functionality, ease of use, standards-compliance, product reliability, security and quality of technical support are key competitive factors that face us in each of the areas in which we compete. Our customers are also demanding less complexity and lower cost in the implementation, sourcing, integration and ongoing maintenance of their enterprise software, which has led increasingly to our product offerings (database, middleware and applications) being viewed as a &#147;stack&#148; of software designed to work together. Our product sales (and the relative strength of our products versus our competitors) are also affected by the broader &#147;platform&#148; competition between industry-standard Java (J2EE) and Microsoft Corporation&#146;s .NET programming environments and by operating system competition between Windows Server, Unix (Sun Solaris, HP-UX and IBM AIX) and Linux. Open source 
+
+&#160; 
+
+alternatives to commercial software in many of our primary markets, such as MySQL in database and JBoss in application servers are also impacting the competitive environment. These products are typically offered free of charge and are readily available over the Internet. 
+
+&#160; 
+
+In the sale of database software, scalability, reliability, availability and security are key competitive differentiators for our database software. Our competitors include International Business Machines Corporation, Microsoft, Sybase, Inc. and the open source databases, MySQL and PostgreSQL, among others. Our ability to continually innovate and differentiate our database offering has enabled us to maintain our leading position in database software over our competitors. 
+
+&#160; 
+
+In the sale of middleware products, our offering includes a package of software functionality including business intelligence, integration, portal, J2EE application server, development tools and identity management software. Our ability to offer a full range of rich functionality in a standards-based, open architecture has been a key competitive differentiator. Our competitors include IBM, Microsoft, BEA Systems, Inc., SAP Aktiengesellschaft, Sun Microsystems Inc., Sybase and open source projects such as JBoss, but we also face competition in each element of our packaged functions. Business intelligence competitors include Business Objects S.A., Cognos Incorporated, Hyperion Solutions Corporation and others. Application server competitors include Borland Software Corporation, Fujitsu Software Corporation, Hitachi Software Engineering Co., Ltd., IONA Technologies PLC and others. Enterprise Application Integration competitors include webMethods, TIBCO Software, Novell and others. Enterprise portal vendors include, EMC Corporation (Documentum), Plumtree Software, Vignette Corporation and Computer Associates. Identity management vendors include Hewlett-Packard Company and Computer Associates, among others. Open source vendors Red Hat and Novell are also increasingly bundling middleware functionality with their respective Linux distributions. As a package, our middleware solutions have experienced rapid growth in recent years relative to our competitors. 
+
+&#160; 
+
+In the sale of collaboration products, we compete primarily with Microsoft (Exchange/Outlook), IBM (Domino/Notes) and Novell (Groupwise). In addition, we compete in the related content management markets with EMC (Documentum), FileNet, Percussion Software and Vignette, among others. 
+
+&#160; 
+
+In the sale of development tools, ease of use, standard-compliance and the level of abstraction (automated code generation) are key competitive differentiators. We compete against Borland Software Corporation (Delphi), IBM (WebSphere), Microsoft (VisualStudio.NET), Sun Microsytems (Sun Studio), Sybase (PowerBuilder) and others. The success of our development tools is closely related to the relative popularity of our platform (database and middleware) compared to our competitors, as well as the larger competition between Java and Microsoft&#146;s .NET. 
+
+&#160; 
+
+The sale of applications software, in particular, is changing rapidly due to the development and deployment of Service Oriented Architectures (SOA) and web services, application integration middleware as well as &#147;software as a service&#148; offerings, such as those from Salesforce.com and RightNow Technologies, Inc. in Customer Relationship Management (CRM) applications. As a result of our acquisition of PeopleSoft, we presently offer several product lines, which are suited for different needs of customers in different industries. We compete against SAP, Lawson Software, Inc., Intentia International AB, Microsoft Business Solutions (Great Plains, Solomon, Axapta, Navision), Siebel Systems, Inc., Sage, Inc., SSA Global and many other application providers. These include numerous point solution providers such as Epicor (accounting), SunGard Data Systems (treasury), Kronos (time and attendance), Taleo (recruitment), Callidus (compensation), Automatic Data Processing, Inc. (ADP) (payroll), Ariba (procurement), i2 (order management), MRO (enterprise asset management), DSCi (logistics), GEAC (inventory), Broadvision (marketing), Kana (analytics), Salesforce.com (sales force automation) and Amdocs (customer service). 
+
+&#160; 
+
+With service-oriented architectures, our packaged applications also compete with custom solutions either developed in-house or by large systems integrators such as Accenture Ltd. or IBM Global Services. Our pre-packaged applications also compete against business process outsourcers including ADP, Fidelity Investments, Ceridian Corporation, Hewitt-Cyborg Limited and others. Our application products are architected around a single database model, which we believe is a key differentiator between us and our most significant competitors. 
+
+&#160; 
+
+In the sale of consulting and systems integration services, we both partner with and compete against Accenture Ltd., Electronic Data Systems Corporation, IBM Global Services, Bearing Point, CapGemini and many others. 
+
+&#160; 
+
+Research and Development 
+
+&#160; 
+
+We develop the majority of our products internally. In addition, we have also acquired technology through business acquisitions. We also purchase or license intellectual property rights in certain circumstances. Internal development allows us to maintain technical control over the design and development of our products. We have a number of United States and foreign patents and pending applications that relate to various aspects of our products and technology. While we believe that our patents have value, no single patent itself is essential to us or to any of our principal business segments. 
+
+&#160; 
+
+Research and development expenditures were 13%, 13% and 12% of total revenues in fiscal 2005, 2004 and 2003, respectively. As a percentage of new software license revenues, research and development expenditures were 37%, 36% and 36% in fiscal 2005, 2004 and 2003, respectively. Rapid technological advances in hardware and software development, evolving standards in computer hardware and software technology, changing customer needs and frequent new product introductions and enhancements characterize the software markets in which we compete. We plan on continuing to dedicate a significant amount of resources to research and development efforts to maintain and improve our database, middleware and applications software, including investment in Project Fusion. 
+
+&#160; 
+
+Employees 
+
+&#160; 
+
+As of May 31, 2005, we employed 49,872 full-time employees, including 11,445 in sales and marketing, 4,937 in license updates and product support, 14,125 in services, 13,114 in research and development and 6,251 in general and administrative positions. Of these employees, 21,544 were located in the United States and 28,328 were employed internationally. 
+
+&#160; 
+
+None of our employees in the United States are represented by a labor union; however, in certain international subsidiaries worker councils represent our employees. We have not experienced any work stoppages and believe that our employee relations are good. 
+
+&#160; 
+
+Available Information 
+
+&#160; 
+
+Our Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and amendments to reports filed pursuant to Sections 13(a) and 15(d) of the Securities Exchange Act of 1934, as amended, are available free of charge on our Investor Relations web site at www.oracle.com/investor as soon as reasonably practicable after we electronically file such material with, or furnish it to, the Securities and Exchange Commission. The information posted on our web site is not incorporated into this Annual Report. 
+
+&#160; 
+
+Executive Officers of the Registrant 
+
+&#160; 
+
+Our executive officers and significant employees are as follows: 
+
+&#160; 
+
+##TABLE_START Name 
+
+&#160; Office(s) 
+
+Lawrence J. Ellison 
+
+&#160; Chief Executive Officer and Director Jeffrey O. Henley 
+
+&#160; Chairman of the Board of Directors Safra A. Catz 
+
+&#160; President, Interim Chief Financial Officer and Director Charles E. Phillips, Jr. 
+
+&#160; President and Director Gregory B. Maffei 
+
+&#160; President and Prospective Chief Financial Officer Keith G. Block 
+
+&#160; Executive Vice President, North America Sales and Consulting Sergio Giacoletto 
+
+&#160; Executive Vice President, Europe, Middle East and Africa Sales and Consulting Juergen Rottler 
+
+&#160; Executive Vice President, Oracle Support and Oracle On Demand Charles A. Rozwat 
+
+&#160; Executive Vice President, Server Technologies Derek H. Williams 
+
+&#160; Executive Vice President, Asia Pacific Sales and Consulting John Wookey 
+
+&#160; Senior Vice President, Applications Development Daniel Cooperman 
+
+&#160; Senior Vice President, General Counsel and Secretary Jennifer L. Minton 
+
+&#160; Senior Vice President, Finance and Operations ##TABLE_END &#160; 
+
+Mr. Ellison, 60, has been Chief Executive Officer and a Director since he founded Oracle in June 1977. Mr. Ellison served as Chairman of the Board from May 1995 to January 2004 and from May 1990 until October 1992. He served as President from May 1978 to July 1996. 
+
+&#160; 
+
+Mr. Henley, 60, has been Chairman of the Board since January 2004 and a director since June 1995. Mr. Henley served as an Executive Vice President and Chief Financial Officer from March 1991 until July 2004. He also serves as a director of CallWave, Inc. 
+
+&#160; 
+
+Ms. Catz, 43, has been a President since January 2004, has been Interim Chief Financial Officer since March 2005 and has served as a Director since October 2001. She served as an Executive Vice President from November 1999 to January 2004 and Senior Vice President from April 1999 to October 1999. 
+
+&#160; 
+
+Mr. Phillips, 46, has been a President and has served as a Director since January 2004. He served as Executive Vice President Strategy, Partnerships, and Business Development, from May 2003 to January 2004. Prior to joining us, Mr. Phillips was with Morgan Stanley &#38; Co., Incorporated, a global investment bank, where he was a Managing Director from November 1995 to May 2003 and a Principal from December 1994 to November 1995. From 1986 to 1994, Mr. Phillips worked at various investment banking firms on Wall Street. Prior to that, Mr. Phillips served as a Captain in the United States Marine Corps as an information technology officer. Mr. Phillips also serves as a director of Viacom Inc. and 51job, Inc. 
+
+&#160; 
+
+Mr. Maffei, 45, joined the company in June 2005 as President, and will be appointed Chief Financial Officer in July 2005. Prior to joining us, Mr. Maffei served as Chief Executive Officer of 360networks Corporation, a telecommunications service provider, from January 2000 to June 2005. Mr. Maffei was previously Chief Financial Officer of Microsoft Corporation from July 1997 to January 2000. In June 2001, several subsidiaries of 360networks filed voluntary petitions under Chapter 11 of the U.S. Bankruptcy Code and successfully emerged from bankruptcy protection in November 2002. Mr. Maffei also serves as a director of Starbucks Corporation and Electronic Arts, Inc. 
+
+&#160; 
+
+Mr. Block, 44, has been Executive Vice President, North America Sales and Consulting since September 2002 and Executive Vice President, North America Consulting since February 2002. Mr. Block served as Senior Vice President of North America Commercial Consulting and Global Service Lines from June 1999 until January 2002. He served as Senior Vice President of the Commercial Consulting Practice from April 1999 until May 1999. Mr. Block was Group Vice President, East Consulting from June 1997 until March 1999. Prior to joining us in 1986, Mr. Block was a Senior Consultant at Booz, Allen and Hamilton. 
+
+&#160; 
+
+Mr. Giacoletto, 55, has been Executive Vice President, Europe, Middle East and Africa Sales and Consulting since June 2000 and Senior Vice President, Business Solutions since November 1998. He was Vice President, Alliances and Technology from March 1997 to November 1998. Before joining us, he had been President of AT&#38;T Solutions for Europe since August 1994. Previously, he spent 20 years with Digital Equipment Corporation in various positions in European marketing and services. 
+
+&#160; 
+
+Mr. Rottler, 39, has been Executive Vice President, Oracle Support and Oracle On Demand since September 2004. Prior to joining us, he served as Senior Vice President, Public Sector, Customer Solutions Group at Hewlett-Packard Company (HP), from December 2003 to September 2004, where he was responsible for HP&#146;s worldwide Public Sector, Health and Education business. Mr. Rottler was Vice President, HP Services Worldwide Sales and Marketing from May 2003 to December 2003, Vice President, HP Services Worldwide Marketing, Strategy and Alliances from May 2002 to May 2003 and Vice President and General Manager, HP Services North America from April 2000 to May 2002. 
+
+&#160; 
+
+Mr. Rozwat, 57, has been Executive Vice President, Server Technologies since November 1999 and served as Senior Vice President, Database Server from December 1996 to October 1999. Mr. Rozwat served as Vice President of Development from December 1994 to November 1996. Prior to joining us, he spent 17 years in various positions at Digital Equipment Corporation. 
+
+&#160; 
+
+Mr. Williams, 60, has been Executive Vice President, Asia Pacific Sales and Consulting since October 2000 and Senior Vice President, Asia Pacific from July 1993 to October 2000. Mr. Williams served as Vice President, Asia Pacific from April 1991 to July 1993. Mr. Williams joined Oracle United Kingdom in October 1988 and served as Regional Director, Strategic Accounts from October 1988 to April 1991. 
+
+&#160; 
+
+Mr. Wookey, 46, has been Senior Vice President, Applications Development since April 2000. Mr. Wookey served as Senior Vice President, Financial Applications Products from April 1999 to January 2000 and Vice President, Financial Applications Products from June 1995 to April 1999. Prior to joining us, he spent eight years as Vice President of Development at Ross Systems, Inc. 
+
+&#160; 
+
+Mr. Cooperman, 54, has been Senior Vice President, General Counsel and Secretary since February 1997. Prior to joining us, Mr. Cooperman had been associated with the law firm of McCutchen, Doyle, Brown &#38; Enersen (which has since become Bingham McCutchen LLP) from October 1977, and had served as a partner since June 1983. From September 1995 until February 1997, Mr. Cooperman was Chair of the law firm&#146;s Business and Transactions Group and from April 1989 through September 1995, he served as the Managing Partner of the law firm&#146;s San Jose office. 
+
+&#160; 
+
+Ms. Minton, 44, has been Senior Vice President, Finance and Operations since October 2001. She served as Senior Vice President and Corporate Controller from April 2000 to September 2001 and Vice President and Corporate Controller from November 1998 to March 2000. Ms. Minton joined us in May 1989. 
+
+&#160; 
+
+##TABLE_START "
+1A,
+7A," Item 7A. Quantitative and Qualitative Disclosures About Market Risk ##TABLE_END &#160; 
+
+Interest Rate Risk. Based on our intentions regarding our investments, we classify our investments as either held-to-maturity or available-for-sale. Held-to-maturity investments are reported on the balance sheet at amortized cost. Available-for-sale securities are reported at market value. Auction rate securities, which are classified as available-for-sale, are reported on the balance sheet at par value, which equals market value, as the rate on such securities re-sets generally every 7 to 28 days. As a majority of our investments are held-to-maturity, interest rate movements do not affect the balance sheet valuation of the fixed income investments. Changes in the overall level of interest rates affect our interest income that is generated from our investments. For fiscal 2005, total interest income was $184.6 million with investments yielding an average 1.93% on a worldwide basis. This interest rate level was up approximately 47 basis points from 1.46% in fiscal 2004. If overall interest rates fell by a similar amount (47 basis points) in fiscal 2006, our interest income would decline approximately $48.9 million, assuming consistent investment levels. 
+
+&#160; 
+
+Table of Investment Securities: 
+
+&#160; 
+
+The table below presents the cash, cash equivalent and marketable securities balances, related weighted average interest rates and maturities for our investment portfolio at May 31, 2005. The cash, cash equivalent and marketable securities balances approximate fair value at May 31, 2005: 
+
+&#160; 
+
+##TABLE_START (Dollars in millions) 
+
+&#160; Amortized 
+
+Principal 
+
+Amount 
+
+&#160; Weighted Average Interest Rate Cash and cash equivalents 
+
+&#160; $ 3,894 &#160; 2.32% Marketable securities (within 1 year) 
+
+&#160; &#160; 908 &#160; 0.77% Marketable securities (1&#150;2 years) 
+
+&#160; &#160; 12 &#160; 3.53% &#160; &#160; &#160; &#160; Total cash, cash equivalents and marketable securities 
+
+&#160; $ 4,814 &#160; 2.03% &#160; &#160; &#160; &#160; ##TABLE_END &#160; 
+
+The table above includes the United States dollar equivalent of cash, cash equivalents and marketable securities, a portion of which is denominated in foreign currencies as shown below. See discussion of our foreign currency risk below for a description of how we hedge net assets of certain international subsidiaries from foreign currency exposure. 
+
+&#160; 
+
+##TABLE_START (in millions) 
+
+&#160; Amortized 
+
+Principal 
+
+Amount at 
+
+May 31, 2005 
+
+Japanese Yen 
+
+&#160; $ 807 Euro 
+
+&#160; &#160; 416 UK Pound 
+
+&#160; &#160; 214 Chinese Renminbi 
+
+&#160; &#160; 189 Canadian Dollar 
+
+&#160; &#160; 180 Australian Dollar 
+
+&#160; &#160; 94 South African Rand 
+
+&#160; &#160; 88 Other currencies 
+
+&#160; &#160; 861 &#160; &#160; Total cash, cash equivalents and marketable securities denominated in foreign currencies 
+
+&#160; $ 2,849 &#160; &#160; ##TABLE_END &#160; 
+
+Interest Expense Rate Risk. On April 7, 2005, we introduced a commercial paper program with an authorized maximum outstanding amount of $3 billion. As of May 31, 2005, $2.0 billion of commercial paper remained outstanding (effective weighted-average interest rate of 3.13%). A 1/2% change in interest rates would increase or decrease interest expense by $10.0 million annually. 
+
+&#160; 
+
+On May 20, 2005, a wholly-owned subsidiary of Oracle borrowed $700 million under an unsecured 364-day term loan agreement (OTC Loan Facility). Borrowings under the OTC Loan Facility bear interest at a rate per annum equal to a rate based on the London interbank offered rate from time to time plus a margin, which fluctuates based upon the ratings assigned from time to time by Moody&#146;s Investors Service, Inc. and Standard &#38; Poor&#146;s Ratings Services to our senior unsecured long-term debt. As of May 31, 2005, the effective interest rate on our OTC Loan Facility was 3.53%. A 1/2% change in interest rates would increase or decrease interest expense by $3.5 million annually. 
+
+&#160; 
+
+We have $150 million in 6.91% senior notes due in February 2007. In February 2002, we entered into an interest-rate swap agreement that has the economic effect of modifying the interest obligations associated with these senior notes so that the interest payable on the senior notes effectively becomes variable based on the three month LIBOR set quarterly until maturity. The notional amount of the interest rate swap and the termination date match the principal amounts and maturity date of the outstanding senior notes. Our interest rate swap reduced the effective interest rate on our 6.91% senior notes to 5.23% as of May 31, 2005. The fair value of the interest rate swap was $3.1 million at May 31, 2005 and is included in other assets in the accompanying consolidated balance sheets. 
+
+&#160; 
+
+Foreign Currency Transaction Risk. We transact business in various foreign currencies and have established a program that primarily utilizes foreign currency forward contracts to offset the risk associated with the effects of certain foreign currency exposures. Under this program, increases or decreases in our foreign currency exposures are offset by gains or losses on the forward contracts, to mitigate the possibility of foreign currency transaction gains or losses. These foreign currency exposures typically arise from intercompany sublicense fees and other intercompany transactions. Our forward contracts generally have terms of 90 days or less. We do not use forward contracts for trading purposes. All outstanding foreign currency forward contracts (excluding our Yen equity hedge described below) are marked to market at the end of the period with unrealized gains and losses included in non-operating income, net. Our ultimate realized gain or loss with respect to currency fluctuations will depend on the currency exchange rates and other factors in effect as the contracts mature. Net foreign exchange transaction losses included in non-operating income, net in the accompanying consolidated statements of operations were $27.2 million, $20.9 million and $1.0 million in fiscal 2005, 2004 and 2003, respectively. The fair values of foreign currency forward contracts were not individually significant and approximated $0.2 million and $(0.7) million as of May 31, 2005 and 2004. These amounts are included in other assets in the accompanying consolidated balance sheets. 
+
+&#160; 
+
+The table below presents the notional amounts (at contract exchange rates) and the weighted average contractual foreign currency exchange rates for the outstanding forward contracts as of May 31, 2005. Notional weighted average exchange rates are quoted using market conventions where the currency is expressed in currency units per United States dollar. All of our forward contracts mature in 30 days or less as of May 31, 2005. 
+
+&#160; 
+
+Table of Forward Contracts: 
+
+&#160; 
+
+United States Dollar Foreign Exchange Contracts 
+
+&#160; 
+
+##TABLE_START (Dollars in millions) 
+
+&#160; Exchange 
+
+Foreign Currency 
+
+for U.S. Dollars 
+
+(Notional Amount) 
+
+&#160; Exchange 
+
+U.S. Dollars for 
+
+Foreign Currency 
+
+(Notional Amount) 
+
+&#160; Notional Weighted Average 
+
+Exchange Rate 
+
+Functional Currency: 
+
+&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; Australian Dollar 
+
+&#160; $ 9.1 &#160; $ &#151; &#160; 0.76 Chinese Renminbi 
+
+&#160; &#160; 122.6 &#160; &#160; &#151; &#160; 8.25 Columbian Peso 
+
+&#160; &#160; 2.9 &#160; &#160; &#151; &#160; 2345.00 Euro 
+
+&#160; &#160; 25.3 &#160; &#160; &#151; &#160; 1.25 Indian Rupee 
+
+&#160; &#160; 52.6 &#160; &#160; &#151; &#160; 43.67 Israeli Shekel 
+
+&#160; &#160; 15.2 &#160; &#160; &#151; &#160; 4.40 Japanese Yen 
+
+&#160; &#160; 72.7 &#160; &#160; 2.2 &#160; 107.90 Korean Won 
+
+&#160; &#160; 20.5 &#160; &#160; &#151; &#160; 1003.00 New Zealand Dollar 
+
+&#160; &#160; 5.6 &#160; &#160; &#151; &#160; 0.71 Philippine Peso 
+
+&#160; &#160; 17.3 &#160; &#160; &#151; &#160; 54.57 Saudi Arabian Riyal 
+
+&#160; &#160; 29.2 &#160; &#160; &#151; &#160; 3.75 Singapore Dollar 
+
+&#160; &#160; 2.5 &#160; &#160; &#151; &#160; 1.66 Swedish Krona 
+
+&#160; &#160; 1.5 &#160; &#160; &#151; &#160; 7.34 South African Rand 
+
+&#160; &#160; 4.0 &#160; &#160; &#151; &#160; 6.63 Taiwan Dollar 
+
+&#160; &#160; 6.0 &#160; &#160; &#151; &#160; 31.34 Thai Baht 
+
+&#160; &#160; 5.9 &#160; &#160; 1.0 &#160; 40.37 &#160; &#160; &#160; &#160; &#160; Total 
+
+&#160; $ 392.9 &#160; $ 3.2 &#160; &#160; &#160; &#160; &#160; &#160; &#160; ##TABLE_END &#160; 
+
+Euro Foreign Exchange Contracts 
+
+&#160; 
+
+##TABLE_START (Euros in millions) 
+
+&#160; Exchange 
+
+Foreign Currency 
+
+Euros 
+
+(Notional Amount) 
+
+&#160; Exchange 
+
+Euros for 
+
+Foreign Currency 
+
+(Notional Amount) 
+
+&#160; Notional Weighted Average 
+
+Exchange Rate 
+
+Functional Currency: 
+
+&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; Swiss Franc 
+
+&#160; &#128; 8.2 &#160; &#128; &#151; &#160; 1.55 Danish Krone 
+
+&#160; &#160; 3.1 &#160; &#160; &#151; &#160; 7.44 British Pound 
+
+&#160; &#160; 38.5 &#160; &#160; &#151; &#160; 0.69 Israeli Shekel 
+
+&#160; &#160; 3.4 &#160; &#160; &#151; &#160; 5.51 Norwegian Kroner 
+
+&#160; &#160; 3.6 &#160; &#160; &#151; &#160; 7.99 Swedish Krona 
+
+&#160; &#160; 6.0 &#160; &#160; &#151; &#160; 9.20 United States Dollar 
+
+&#160; &#160; 2.4 &#160; &#160; &#151; &#160; 1.25 South African Rand 
+
+&#160; &#160; 10.4 &#160; &#160; &#151; &#160; 8.32 &#160; &#160; &#160; &#160; &#160; Total 
+
+&#160; &#128; 75.6 &#160; &#128; &#151; &#160; &#160; &#160; &#160; &#160; &#160; &#160; ##TABLE_END &#160; 
+
+Net Investment Risk. Periodically, we hedge the net assets of certain international subsidiaries (net investment hedges) using foreign currency forward contracts to offset the translation and economic exposures related to our investments in these subsidiaries. We measure the ineffectiveness of net investment hedges by using the changes in spot exchange rates because this method reflects our risk management strategies, the economics of those strategies in our financial statements and better manages interest rate differentials between different countries. Under this method, the change in fair value of the forward contract attributable to the changes in spot exchange rates (the effective portion) is reported in stockholders&#146; equity to offset the translation results on the net investments. The remaining change in fair value of the forward contract (the ineffective portion) is recognized in non-operating income, net. 
+
+&#160; 
+
+Net losses on investment hedges reported in stockholders&#146; equity were $23.1 million, $38.4 million and $44.7 million in fiscal 2005, 2004 and 2003, respectively. Net gains on investment hedges reported in non-operating income, net were $13.6 million, $7.5 million and $8.9 million in fiscal 2005, 2004 and 2003, respectively. 
+
+&#160; 
+
+At May 31, 2005, we had one net investment hedge in Japanese Yen. The Yen investment hedge minimizes currency risk arising from net assets held in Yen as a result of equity capital raised during the initial public offering and secondary offering of Oracle Japan. The fair value of our Yen investment hedge was $0.5 million and $1.4 million as of May 31, 2005 and 2004. The Yen investment hedge has a notional amount of $615.5 million and an exchange rate of 107.23 Yen for United States dollar. 
+
+&#160; 
+
+##TABLE_START "
+8," Item 8. Financial Statements and Supplementary Data ##TABLE_END &#160; 
+
+The response to this item is submitted as a separate section of this Form 10-K. See Item 15. 
+
+&#160; 
+
+##TABLE_START "

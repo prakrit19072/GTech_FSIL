@@ -1,0 +1,632 @@
+1," Item 1. Business 
+
+&#160; 
+
+General 
+
+&#160; 
+
+We are the world&#146;s largest enterprise software company. We develop, manufacture, market and distribute computer software that helps our customers manage and grow their businesses and operations. Our offerings include new software licenses, software license updates and product support and services, which include consulting, advanced product services and education. We also offer an integrated suite of business applications software and other business software infrastructure, including application server, collaborative software and development tools. 
+
+&#160; 
+
+We seek to be an industry leader in each of the specific product categories in which we compete and to expand into new and emerging markets. In fiscal 2003, we focused on improving our market position and enhancing our portfolio of products and services in each of our segments as described below. In addition, we reorganized our North American commercial sales force to focus separately on our database technology and applications software products and to simplify our sales coverage model. 
+
+&#160; 
+
+Our goal is to provide our customers with scalable, reliable and secure database technology software and integrated business applications software that give them transactional efficiency and quality information at a low cost of total ownership. 
+
+&#160; 
+
+Oracle Corporation was incorporated in 1986 as a Delaware corporation and is the successor to operations originally begun in June 1977. 
+
+&#160; 
+
+Tender Offer for PeopleSoft, Inc. 
+
+&#160; 
+
+On June 9, 2003, we commenced an unsolicited $16.00 per share cash tender offer for all of the outstanding shares of PeopleSoft, Inc., a Delaware corporation, or approximately $5.1 billion for approximately 317 million shares. On June 18, 2003, we increased the cash tender offer to $19.50 per share or approximately $6.2 billion. We have entered into a commitment with Credit Suisse First Boston to provide a $5.0 billion revolving credit facility with a term of 364 days. We plan to pay for the PeopleSoft shares and related transaction fees and expenses with internally available cash and borrowings under the revolving credit facility. 
+
+&#160; 
+
+In connection with the tender offer, we have been named as a defendant in various legal proceedings and may be a party to additional legal proceedings in the future. While the outcome of these matters cannot be predicted with certainty, we believe we have meritorious defenses to these actions, and we will vigorously defend them. 
+
+&#160; 
+
+Products and Services 
+
+&#160; 
+
+We have five operating segments based on our product and service offerings: new software licenses, software license updates and product support, consulting, advanced product services and education. See Note 15 of Notes to Consolidated Financial Statements for additional information related to our operating segments. 
+
+&#160; 
+
+New Software Licenses 
+
+&#160; 
+
+Our new software license line of business (formerly referred to as the licenses line of business) includes the licensing of database technology software and applications software. Our software platform is based on an internet architecture comprised of interconnected database servers, application servers and client computers or devices running web browsers. This architecture permits end users to access business data and applications through standard web browsers, while allowing enterprises to manage business information and applications from centralized locations. Database servers manage the underlying business information, while application servers run the business applications. These servers are typically managed by professional information technology managers. In contrast, traditional client/server computing architectures require that each client computer run and manage its own applications and also be updated every time an application changes. We believe that the network-centric design of our software for internet computing improves network performance and data quality and helps our customers better control installation, maintenance and training costs associated with information technology infrastructure. Our integrated, component based architecture can be designed around the specific needs of any industry and is supported on several different operating systems, including Linux, UNIX and Windows. 
+
+&#160; 
+
+New software license revenues include all fees earned from granting customers licenses to use our software products and exclude revenues derived from software license updates and product support. The standard end user software license agreement for our products provides for an initial fee to use the product in perpetuity based on a maximum number of processors or a maximum number of named users. We also have other types of software license agreements restricted by the number of employees or the license term. New software license revenues represented 34%, 36% and 42% of total revenues in fiscal 2003, 2002 and 2001, respectively. Other revenues, which include documentation and miscellaneous revenues, represented 1% of total revenues in fiscal 2003, 2002 and 2001. 
+
+&#160; 
+
+Database Technology 
+
+&#160; 
+
+Our database technology software provides a platform for developing and deploying applications on the internet and on corporate intranets. Database technology software products include database management software, application server software, collaboration software and development tools that allow users to create, retrieve and modify the various types of data stored in a computer system. New software license revenues from database technology products represented 28%, 29% and 33% of total revenues and 81%, 80% and 78% of new software license revenues in fiscal 2003, 2002 and 2001, respectively. 
+
+&#160; 
+
+Oracle Database 
+
+&#160; 
+
+The Oracle relational database management system is a key component of our internet platform and enables the storage, manipulation and retrieval of relational, object-relational, multi-dimensional and other types of data. 
+
+&#160; 
+
+Oracle9 i is designed to run applications with a very high degree of scalability and reliability across multiple computers clustered together. The Oracle database with Real Application Clusters acts as a single database in a cluster of computers linked together and does not require the data to be separated on multiple computers. Customers can simply add computers to the cluster and the database software adapts to utilize the additional computing resources, thereby significantly improving application scalability and availability without requiring users to modify their applications. Customers can achieve significant cost savings by scaling up and eliminating 
+
+&#160; 
+
+fail-over servers and by using lower cost hardware as the basis of the cluster, instead of larger, more expensive computers. 
+
+&#160; 
+
+In addition to Oracle9 i Real Application Clusters, Oracle9 i Database contains features that facilitate customers&#146; ability to build, deploy and manage internet applications at lower costs. The key features of Oracle9 i include improved database availability, functionality, enhanced security capabilities and an integrated infrastructure for building business intelligence applications. 
+
+&#160; 
+
+Oracle Application Server 
+
+&#160; 
+
+Oracle9 i Application Server or Oracle9 i AS, a consolidated software platform based on industry standards, makes it easier for developers to build and deploy web services, web sites and portals and web-based applications. Oracle9 i AS supports a range of development languages and tools, including the latest J2EE technologies and complies with industry standards. In addition, Oracle9 i AS incorporates clustering and caching technology, which significantly increases application reliability, performance, security and scalability. 
+
+&#160; 
+
+Oracle 9i AS comes with an integrated set of business intelligence software including Oracle Discoverer, Oracle Reports and Oracle Clickstream. Oracle Discoverer is an intuitive web-based ad hoc query, reporting and analysis tool for end users. Oracle Reports offers an enterprise-reporting tool for the production of high quality reports. Oracle Clickstream provides a facility to analyze web site traffic. 
+
+&#160; 
+
+Oracle9 i AS also includes Portal, which allows personalized portal sites to be rapidly developed and deployed, all with single sign on and security. Portal sites are assembled using &#145;portlets,&#146; which are reusable interface components that provide access to web-based resources such as applications, business intelligence reports, syndicated content feeds and outsourced software services. With the Oracle9 i AS Wireless Option, portal sites can be made available to any wireless device. 
+
+&#160; 
+
+Oracle9 i AS includes an enhanced Enterprise Integration platform that provides a comprehensive E-Business integration solution delivered as an integral feature of Oracle9 i AS. The E-Business integration solution provides an open, standards-based infrastructure for enterprise application integration, business-to-business collaboration and web services integration in a single product. 
+
+&#160; 
+
+Oracle Collaboration Suite 
+
+&#160; 
+
+Oracle Collaboration Suite is a single, integrated suite that manages email and voicemail messages, facsimiles, calendaring, file sharing, search and workflow. The Oracle Collaboration Suite centralizes administration and lowers operating costs by consolidating email and file servers. Additionally, users are provided with one folder for their email, files, voicemail and facsimile messages. The Oracle Collaboration Suite is built on the Oracle9 i Database and Oracle9 i AS, supports enterprise-scale implementations and offers high-availability features like rapid server failover, disaster recovery and automated backup. With Oracle Collaboration Suite, users access all their communications content via desktop applications, the internet, personal digital assistants or mobile phones, improving communication and collaboration. 
+
+&#160; 
+
+Oracle Developer Suite 
+
+&#160; 
+
+Oracle Developer Suite is an integrated suite of development tools designed to facilitate rapid development of internet database applications and web services. Built on internet standards such as Java, J2EE, XML and HTML, the Developer Suite contains application development and business intelligence tools. 
+
+&#160; 
+
+The Developer Suite includes Oracle JDeveloper, a Java development environment for modeling, building, debugging and testing enterprise-class J2EE applications and web services. In addition, the suite contains Oracle Designer, a tool that allows developers to model business processes and automatically generate enterprise 
+
+&#160; 
+
+database applications, and Oracle Forms Developer, a development tool for building database applications that can be deployed unchanged in both internet and client/server based environments. 
+
+&#160; 
+
+The Developer Suite also includes Oracle Warehouse Builder to consolidate fragmented data and metadata pulled from packaged applications, custom applications and legacy applications. Oracle Warehouse Builder enables developers to graphically design the multidimensional database schema and to automatically generate and load the data warehouse. 
+
+&#160; 
+
+Applications 
+
+&#160; 
+
+We offer a fully integrated suite of applications built upon a unified information architecture. Our applications software can be accessed with standard web browsers and can be used to automate business processes and to provide business intelligence for financials, projects, marketing, sales, order management, procurement, supply chain, manufacturing, service and human resources. New software license revenues from applications software represented 6%, 7% and 9% of total revenues and 19%, 20% and 22% of new software license revenues in fiscal 2003, 2002 and 2001, respectively. 
+
+&#160; 
+
+The Oracle E-Business Suite, which is offered as an entire suite or on a component basis, provides integrated enterprise information that enables companies to manage their business cycles on a global basis and to solve end-to-end business problems. 
+
+&#160; 
+
+The Oracle E-Business Suite utilizes Oracle&#146;s full technology stack, including database, application server and developer tools. The E-Business Suite is an open architecture, which can be integrated to legacy applications that exist in a customer&#146;s environment. 
+
+&#160; 
+
+The Oracle E-Business Suite applications combine business functionality with innovative technologies, such as workflow and self-service applications, that enable users to lower the cost of their business operations by providing customers, suppliers and employees with self-service internet access to both transaction processing and critical business information. Self-service applications automate a variety of business functions such as customer service and support, procurement, expense reporting and reimbursement. The Oracle E-Business Suite can also help companies automate and improve business processes associated with financials, projects, marketing, sales, order management, procurement, supply chain, manufacturing, service and human resources. 
+
+&#160; 
+
+Available in approximately 30 languages, Oracle&#146;s E-Business Suite applications also allow companies to operate in multiple currencies and to support both global and local business practices and legal requirements. 
+
+&#160; 
+
+Software License Updates and Product Support 
+
+&#160; 
+
+Software license updates provide customers with rights to unspecified software product upgrades, maintenance releases and patches released during the term of the support period, which is typically one year. Product support services include internet access to technical content, as well as internet and telephone access to technical support personnel. Product support is provided by local offices, as well as by our four global support centers located around the world. Software license updates and product support are generally priced as a percentage of the net new software license fees. Software license updates can be purchased separately from product support; however, only customers who purchase software license updates can purchase product support. Substantially all of our customers purchase both license updates and product support upon the initial licensing of our software. In addition, most of these customers renew the software license updates and product support rights annually. Software license updates and product support revenues represented 41%, 37% and 30% of total revenues in fiscal 2003, 2002 and 2001, respectively. We believe that software license updates and product support represent a recurring source of revenues and will continue to grow if our installed base of software licenses continues to expand. 
+
+&#160; 
+
+Consulting 
+
+&#160; 
+
+Through Oracle Consulting, we globally deploy professionals who specialize in rapid design, implementation, deployment, upgrade and migration services for our database technology and applications software. We focus on implementing software with a number of consulting accelerators such as preconfigured business flows, all of which increase the pace at which our customers achieve value from our applications. Our consulting services help customers consolidate their information technology operations, integrate disparate systems and increase the security of their data assets. Oracle Consulting leverages several remote delivery channels, including offshore centers. Consulting revenues represented 19%, 20% and 21% of total revenues in fiscal 2003, 2002 and 2001, respectively. 
+
+&#160; 
+
+Advanced Product Services 
+
+&#160; 
+
+Our advanced product services offering includes remote database administration, performance monitoring and tuning, on-site technical support services and outsourcing services. Our outsourcing services include multi-featured software management and maintenance services. We provide outsourced services for products such as the Oracle E-Business Suite, Oracle9 i Database, Oracle9 i AS and Oracle Collaboration Suite. With Oracle E-Business Suite Outsourcing, customers gain access to their applications through a standard web browser and network connection. Oracle&#146;s Technology Outsourcing administers, manages and maintains the Oracle9 i Database, Oracle9 i AS and Oracle Collaboration Suite. Customers can choose to have their servers located at our own data centers, where we maintain both the software and hardware, or they can place and manage the servers they are using at their own locations or at qualified third party locations and allow us to remotely manage the software. With either approach, we provide outsourced services that enable customers to lower information technology costs and improve their business efficiency. Although a new service offering, our outsourcing business has more than 500 customers worldwide. Advanced product services revenues represented 2%, 3% and 2% of total revenues in fiscal 2003, 2002 and 2001, respectively. 
+
+&#160; 
+
+Education 
+
+&#160; 
+
+Through Oracle University, we provide training to customers and partners as part of our mission of accelerating the adoption of Oracle technology around the world. Operating out of approximately 400 Oracle training centers and 200 delivery partner locations, Oracle University trains over 400,000 students in 65 countries each year on Oracle technology. Our training is provided primarily through instructor-led classroom events, but is also made available through a variety of online courses and self paced media training on CD-Roms. Oracle University&#146;s curriculum is entirely Oracle-based, covering all aspects of Oracle 9 i Database, Oracle 9 i AS, Collaboration Suite, Developer Suite and E-Business Applications Suite products. At any point in time, there are over 300 instructor- led courses, over 1,000 hours of rich online course content and over 500 CD-Rom based course titles available. This curriculum is continuously updated for the latest versions of our software products. Education revenues represented 3%, 3% and 4% of total revenues in fiscal 2003, 2002 and 2001, respectively. 
+
+&#160; 
+
+Marketing and Sales 
+
+&#160; 
+
+Key Market Segments 
+
+&#160; 
+
+We sell our products and services in three key market segments: the enterprise business market, the government market and the general business market. We define the enterprise business market segment as those businesses with total annual revenues over a specific amount, which may vary by country. In the United States, we define the enterprise business market segment as those businesses with total annual revenues of more than $1 billion. In the enterprise business market and government market segments, we believe that the most important considerations for our customers are performance, functionality, availability, product reliability, ease of use, security, quality of technical support and total cost of ownership, including the initial price and deployment costs, as well as ongoing maintenance costs. We define the general business market segment as those entities smaller than the enterprise businesses. In addition to the considerations noted above, we believe that the principal 
+
+&#160; 
+
+competitive factors for the general business market segment are strength in distribution and marketing, brand name recognition, ability to integrate with enterprise systems and product integration. We believe that we compete effectively in each of these markets, although the competition is intense in each market. 
+
+&#160; 
+
+Sales Distribution Channels 
+
+&#160; 
+
+In the United States, we market our products and services primarily through our own direct sales and service organization. Sales and service employees are based in our headquarters and in field offices located in approximately 60 metropolitan areas. 
+
+&#160; 
+
+Outside the United States, we market our products and services primarily through our subsidiary sales and service organizations. Our subsidiaries license and support our products in their local countries as well as within other foreign countries where we do not operate through a direct sales subsidiary. 
+
+&#160; 
+
+We also market our products through indirect channels. The companies that comprise our indirect channel network are members of the Oracle Partner Program. Our partners resell our products or combine our database, development tools and business applications with computer hardware, software application packages or services for subsequent redistribution and/or implementation. 
+
+&#160; 
+
+The Oracle Partner Program allows us to pursue new business opportunities through partners as well as with direct customers. Partners in the program include consultants, education providers, internet service providers, network integrators, resellers, independent software vendors and system integrators/implementers. Partners can also participate in the Oracle Technology Network and the Oracle Applications Network. These programs are specifically designed for the internet developer and business applications suite user communities, respectively. We provide applications, technology, education and technical support that enable our partners to effectively integrate our products into their business offerings. The combination of the Oracle technology stack, the Oracle E-Business Suite and our partners&#146; expertise broadens our exposure in new markets. 
+
+&#160; 
+
+International 
+
+&#160; 
+
+We conduct business in more than 87 countries around the world. We believe this geographic diversity allows us to draw on business and technical expertise from a worldwide workforce, provides stability to our operations and revenue streams to offset geography-specific economic trends and offers us an opportunity to exploit new markets for maturing products. Our results of operations could be affected by economic and political uncertainty or changes in the laws or policies in the countries in which we operate and by macroeconomic changes, including currency rate fluctuations, recessions and inflation. A summary of our domestic and international revenues and long-lived assets is set forth in Note 15 of Notes to Consolidated Financial Statements. 
+
+&#160; 
+
+Seasonality 
+
+&#160; 
+
+General economic conditions have an impact on our business and financial results. The markets in which we sell our products and services have, at times, experienced weak economic conditions that have negatively affected revenues. Our quarterly results reflect distinct seasonality in the sale of our products and services, as our revenues are typically highest in our fourth fiscal quarter and lowest in our first fiscal quarter. See &#147;Quarterly Results of Operations&#148; in the Management&#146;s Discussion and Analysis of Financial Condition and Results of Operations section of this Form 10-K for a more complete description of the seasonality of our revenues and expenses. 
+
+&#160; 
+
+Customers 
+
+&#160; 
+
+Our customer base consists of a significant number of organizations of all sizes, from small businesses to the largest multinational organizations, government agencies, educational institutions and resellers. Our internet 
+
+&#160; 
+
+architecture supports the complex needs of the largest global organizations. Our target end-user customers are organizations with sophisticated, high-end information systems with numerous, often geographically dispersed, users and diverse, heterogeneous computing environments. Typical customers have web-based implementations that handle very high volumes of business transactions with unpredictable usage volumes. Our primary industry markets include defense and government, education, financial services, technology, transportation, life sciences, insurance, telecommunications, manufacturing and healthcare. No single customer accounted for 10% or more of revenues in fiscal 2003, 2002 or 2001. 
+
+&#160; 
+
+Competition 
+
+&#160; 
+
+The software industry is intensely competitive and rapidly evolving. We compete in various markets including the database management system, data warehouse, collaboration, application server, development tools, applications, consulting and outsourcing markets. Total cost of ownership, performance, functionality, ease of use, product reliability, security and quality of technical support are the key competitive factors that face us in each of the markets in which we compete. 
+
+&#160; 
+
+Our principal software competitors in the database management system and collaboration markets are International Business Machines Corporation and Microsoft Corporation. In the data warehousing market, our online analytical processing products compete primarily with those of Business Objects S.A., Cognos Incorporated, Hyperion Solutions Corporation and NCR Corporation. In the application server market, our competitors include BEA Systems, Inc., IBM and Microsoft. In the development tools market, we compete primarily against Borland Software Corporation, IBM and Microsoft. In the highly fragmented applications market, we compete against Microsoft, PeopleSoft, Inc., SAP Aktiengesellschaft Systeme, Siebel Systems, Inc. and many other application providers, as well as outsourced and in-house solutions for customers. In the consulting and outsourcing markets, we periodically compete against or collaborate with Accenture Ltd., Electronic Data Systems Corporation, IBM Global Services and as well as other smaller service providers. We may also face competition from open source software initiatives, in which developers provide software and intellectual property free over the internet. 
+
+&#160; 
+
+Research and Development 
+
+&#160; 
+
+We develop the majority of our products internally. In certain circumstances, we also purchase or license intellectual property rights. Internal development allows us to maintain technical control over the design and development of our products. We have a number of United States and foreign patents and pending applications that relate to various aspects of our products and technology. While we believe that our patents have value, no single patent itself is essential to us or to any of our principal business segments. 
+
+&#160; 
+
+Research and development expenditures were 12%, 11% and 10% of total revenues in fiscal 2003, 2002 and 2001, respectively. As a percentage of new software license revenues, research and development expenditures were 36%, 31% and 24% in fiscal 2003, 2002 and 2001, respectively. Rapid technological advances in hardware and software development, evolving standards in computer hardware and software technology, changing customer needs and frequent new product introductions and enhancements characterize the software markets in which we compete. We plan on continuing to dedicate a significant amount of resources to research and development efforts to maintain and improve our competitive position in these markets. 
+
+&#160; 
+
+Employees 
+
+&#160; 
+
+As of May 31, 2003, we employed 40,650 full-time employees, including 25,268 in sales and services, 916 in marketing, 9,429 in research and development and 5,037 in general and administrative positions. Of these employees, 17,968 were located in the United States and 22,682 were employed internationally. 
+
+&#160; 
+
+None of our employees in the United States are represented by a labor union; however, in certain international subsidiaries our employees are represented by worker councils. We have not experienced any work stoppages and believe that our employee relations are good. 
+
+&#160; 
+
+Available Information 
+
+&#160; 
+
+Our Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and amendments to reports filed pursuant to Sections 13(a) and 15(d) of the Securities Exchange Act of 1934, as amended, are available free of charge on our Investor Relations web site at www.oracle.com as soon as reasonably practicable after we electronically file such material with, or furnish it to, the Securities and Exchange Commission. The information posted on our web site is not incorporated into this Annual Report. 
+
+&#160; 
+
+Executive Officers of the Registrant 
+
+&#160; 
+
+Our executive officers are as follows: 
+
+&#160; 
+
+##TABLE_START Name 
+
+&#160; Office(s) 
+
+Lawrence J. Ellison 
+
+&#160; Chief Executive Officer and Chairman of the Board of Directors Jeffrey O. Henley 
+
+&#160; Executive Vice President, Chief Financial Officer and Director Safra A. Catz 
+
+&#160; Executive Vice President and Director Keith G. Block 
+
+&#160; Executive Vice President, North America Sales and Consulting Sergio Giacoletto 
+
+&#160; Executive Vice President, Europe, Middle East and Africa Sales and 
+
+Consulting 
+
+Charles E. Phillips, Jr. 
+
+&#160; Executive Vice President George J. Roberts 
+
+&#160; Executive Vice President Michael S. Rocha 
+
+&#160; Executive Vice President, Global Support Services Charles A. Rozwat 
+
+&#160; Executive Vice President, Server Technologies Derek H. Williams 
+
+&#160; Executive Vice President, Asia Pacific Sales and Consulting Ronald A. Wohl 
+
+&#160; Executive Vice President, Applications Development Daniel Cooperman 
+
+&#160; Senior Vice President, General Counsel and Secretary Jennifer L. Minton 
+
+&#160; Senior Vice President, Finance and Operations ##TABLE_END &#160; 
+
+Mr. Ellison, 58, is one of our co-founders and has been Chief Executive Officer since June 1977. Mr. Ellison has been Chairman of the Board since June 1995, served as Chairman of the Board from April 1990 until September 1992 and served as President of Oracle from May 1977 to June 1996. 
+
+&#160; 
+
+Mr. Henley, 58, has been Executive Vice President and Chief Financial Officer since March 1991 and has been a Director since June 1995. Prior to joining us, he served as Executive Vice President and Chief Financial Officer of Pacific Holding Company, a privately held company with diversified interests in manufacturing and real estate, from August 1986 to February 1991. Mr. Henley is a director of Computer Motion, Inc., a medical robotics company. 
+
+&#160; 
+
+Ms. Catz, 41, has served as a Director since October 2001. She has been an Executive Vice President since November 1999 and served as Senior Vice President between April 1999 and October 1999. Prior to joining us, Ms. Catz was employed by Donaldson, Lufkin &#38; Jenrette, a global investment bank, where she was a Managing Director from February 1997 to March 1999. 
+
+&#160; 
+
+Mr. Block, 42, has been Executive Vice President, North America Sales and Consulting since September 2002 and Executive Vice President, North America Consulting since February 2002. Mr. Block served as Senior Vice President of North America Commercial Consulting and Global Service Lines from June 1999 until January 2002. He served as Senior Vice President of the Commercial Consulting Practice from April 1999 until May 1999. Mr. Block was Group Vice President, East Consulting from June 1997 until March 1999. Prior to joining us in 1986, Mr. Block was a Senior Consultant at Booz, Allen and Hamilton. 
+
+&#160; 
+
+Mr. Giacoletto, 53, has been Executive Vice President for Europe, Middle East and Africa since June 2000 and Senior Vice President, Business Solutions, since November 1998. He was Vice President, Alliances and Technology from March 1997 to November 1998. Before joining us, he was President of AT&#38;T Solutions for Europe, since August 1994. Previously, he spent 20 years with Digital Equipment Corporation in various positions in European marketing and services. 
+
+&#160; 
+
+Mr. Phillips, 43, has been an Executive Vice President since May 2003. Prior to joining us, Mr. Phillips was at Morgan Stanley &#38; Co., Incorporated, a global investment bank, where he was a Managing Director from November 1995 to May 2003 and a Principal from December 1994 to November 1995. Prior to that, Mr. Phillips was an information technology officer as a Captain with the United States Marine Corps. 
+
+&#160; 
+
+Mr. Roberts, 47, has been an Executive Vice President since June 1999 and until September 2002, was Executive Vice President, North America Sales. Mr. Roberts served as Senior Vice President North America Sales from July 1998 to May 1999, and as Senior Vice President, Business Online from April 1998 to June 1998. He took a leave of absence from July 1997 to April 1998. Mr. Roberts joined us in March 1990 and from June 1990 to June of 1997 served as Group Vice President, Central Commercial Sales. 
+
+&#160; 
+
+Mr. Rocha, 38, has been Executive Vice President, Global Support Services since December 2002 and served as Senior Vice President, Global Support Services &#38; Platform Technologies from December 2001 to November 2002. Mr. Rocha joined us in 1989 and has held various positions in business planning, engineering and product management including Senior Vice President Platform Technologies from August 1998 to November 2001 and Vice President Porting Technologies from September 1997 to July 1998. 
+
+&#160; 
+
+Mr. Rozwat, 55, has been Executive Vice President, Server Technologies since November 1999 and served as Senior Vice President, Database Server from December 1996 to October 1999. Mr. Rozwat served as Vice President of Development from May 1995 to November 1996. Prior to joining us, he spent 17 years in various positions at Digital Equipment Corporation. 
+
+&#160; 
+
+Mr. Williams, 58, has been Executive Vice President, Asia Pacific since October 2000 and Senior Vice President, Asia Pacific from July 1993 to October 2000. Mr. Williams served as Vice President, Asia Pacific, from April 1991 to July 1993. Mr. Williams joined Oracle United Kingdom in October 1988 and served as Regional Director, Strategic Accounts from October 1988 to April 1991. 
+
+&#160; 
+
+Mr. Wohl, 42, has been Executive Vice President, Applications Development since November 1999 and served as Senior Vice President, Applications Development, from December 1992 to October 1999. From September 1989 until December 1992, Mr. Wohl was Vice President and Assistant General Manager of the Systems Product Division. 
+
+&#160; 
+
+Mr. Cooperman, 52, has been Senior Vice President, General Counsel and Secretary since February 1997. Prior to joining us, Mr. Cooperman had been associated with the law firm of McCutchen, Doyle, Brown &#38; Enersen (which has since become Bingham McCutchen LLP), from October 1977 and had served as a partner since June 1983. From September 1995 until February 1997, Mr. Cooperman was Chair of the law firm&#146;s Business and Transactions Group and from April 1989 through September 1995, he served as the Managing Partner of the law firm&#146;s San Jose office. 
+
+&#160; 
+
+Ms. Minton, 42, has been Senior Vice President, Finance and Operations since October 2001. She served as Senior Vice President and Corporate Controller from April 2000 to September 2001 and Vice President and Corporate Controller from November 1998 to March 2000. Ms. Minton joined us in May 1989 and has held various positions in the finance organization including Assistant Corporate Controller and was a Vice President since August 1995. 
+
+&#160; 
+
+"
+1A,
+7A," Item 7a. Quantitative and Qualitative Disclosures About Market Risk 
+
+&#160; 
+
+Interest Rate Risk. All of our fixed income investments are classified as held-to maturity, and are reported on the balance sheet at amortized cost. Therefore, interest rate movements do not affect the balance sheet valuation of the fixed income investments. However, changes in the overall level of interest rates affect our interest income that is generated from our investments. For fiscal 2003, total interest income was $128.6 million with investments yielding an average 1.92% on a worldwide basis. This interest rate level was down approximately 67 basis points from 2.59% in fiscal 2002. If a similar decline in overall interest rates (67 basis points) were to occur in fiscal 2004, our interest income would decline approximately $45 million, assuming consistent investments levels. 
+
+&#160; 
+
+Table of Investment Securities: 
+
+&#160; 
+
+The table below presents the amortized principal amount, related weighted average interest rates and maturities for our investment portfolio. The amortized principal amount approximates fair value at May 31, 2003. 
+
+&#160; 
+
+##TABLE_START (Dollars in millions) 
+
+&#160; Amortized 
+
+Principal 
+
+Amount 
+
+&#160; Weighted Average 
+
+Interest Rate 
+
+Cash and cash equivalents 
+
+&#160; $ 4,737 &#160; 1.75% Short-term investments (91 days -1 year) 
+
+&#160; &#160; 1,782 &#160; 1.33% Long-term investments (1-2 years) 
+
+&#160; &#160; 233 &#160; 1.54% &#160; &#160; &#160; &#160; Total cash, cash equivalents and investments 
+
+&#160; $ 6,752 &#160; 1.63% &#160; &#160; &#160; &#160; ##TABLE_END &#160; 
+
+The table above includes the United States dollar equivalent of cash, cash equivalents and investments, a portion of which is denominated in foreign currencies as shown below. See discussion of our foreign currency risk below for a description of how we hedge net assets of certain international subsidiaries from foreign currency exposure. 
+
+&#160; 
+
+##TABLE_START (Dollars in millions) 
+
+&#160; Balance at 
+
+May 31, 2003 
+
+Japanese Yen 
+
+&#160; $ 722 Euro 
+
+&#160; &#160; 978 UK Pound 
+
+&#160; &#160; 144 Chinese Renminbi 
+
+&#160; &#160; 98 Canadian Dollar 
+
+&#160; &#160; 52 Other currencies 
+
+&#160; &#160; 563 &#160; &#160; Total cash, cash equivalents and short-term investments denominated in foreign currencies 
+
+&#160; $ 2,557 &#160; &#160; ##TABLE_END &#160; 
+
+During fiscal 1997, we issued $150.0 million in 6.72% senior notes due in February 2004 and $150.0 million in 6.91% senior notes due in February 2007. In February 2002, we entered into two interest-rate swap agreements that have the economic effect of modifying the interest obligations associated with these senior notes so that the interest payable on the senior notes effectively becomes variable based on the three month LIBOR set on February 15, May 15, August 15 and November 15 of each year until maturity. The notional amount of the interest rate swaps and their termination date match the principal amounts and maturities of the outstanding senior notes. At May 31, 2003, the effective interest rates on the senior notes were reduced to 4.66% for the 2004 senior notes and 3.38% for the 2007 senior notes as a result of the two interest rate swaps. The fair value of the interest rate swaps was $19.0 million at May 31, 2003, and is included in intangible and other assets in the consolidated balance sheet. 
+
+&#160; 
+
+Table of Interest Rate Swaps: 
+
+&#160; 
+
+##TABLE_START (Dollars in millions) 
+
+&#160; Notional Amount &#160; Rate on Senior Notes &#160; Received on Swap &#160; &#160; Variable Rate Paid on Swap &#160; Effective Interest Rate on Senior Notes Matures in February 2004 
+
+&#160; $ 150 &#160; 6.72% &#160; (3.35% ) &#160; 1.29% &#160; 4.66% Matures in February 2007 
+
+&#160; $ 150 &#160; 6.91% &#160; (4.82% ) &#160; 1.29% &#160; 3.38% ##TABLE_END &#160; 
+
+Equity price risk: The only significant public equity investment that we hold is our investment in Liberate Technologies. The market value of our investment in Liberate Technologies as of May 31, 2003 was $89.8 million. A hypothetical 25% adverse change in the stock price of our holdings would result in a loss in the fair value of marketable equity securities of approximately $22.5 million, which would partially offset the unrealized gain of $41.7 million recorded in stockholders&#146; equity as of May 31, 2003. 
+
+&#160; 
+
+Foreign Currency Transaction Risk. We transact business in various foreign currencies and have established a program that primarily utilizes foreign currency forward exchange contracts to offset the risk associated with the effects of certain foreign currency exposures. Under this program, increases or decreases in our foreign currency exposures are offset by gains and losses on the forward contracts, so as to mitigate the possibility of foreign currency transaction gains and losses. These foreign currency exposures typically arise from intercompany sublicense fees and other intercompany transactions. Our forward contracts generally have terms of 180 days or less. We do not use forward contracts for trading purposes. All outstanding forward contracts (excluding equity hedges) are marked to market at the end of the period with unrealized gains and losses included in other income, net. Our ultimate realized gain or loss with respect to currency fluctuations will depend on the currency exchange rates and other factors in effect as the contracts mature. Net foreign exchange transaction losses included in other income, net in the accompanying consolidated statements of operations were $1.0 million, $27.4 million and $10.3 million in fiscal 2003, 2002 and 2001, respectively. The fair value of the foreign currency exchange contracts was $(0.6) million and $(0.4) million as of May 31, 2003 and 2002. 
+
+&#160; 
+
+The table below presents the notional amounts (at contract exchange rates) and the weighted average contractual foreign currency exchange rates for the outstanding forward contracts as of May 31, 2003. In the first table, notional weighted average exchange rates are quoted using market conventions where the currency is expressed 
+
+&#160; 
+
+in currency units per United States dollar. In the second table, notional weighted average exchange rates are quoted using market conventions where the currency is expressed in units per Euro. All of our forward contracts mature in ninety days or less as of May 31, 2003. 
+
+&#160; 
+
+Table of Forward Contracts: 
+
+&#160; 
+
+United States Dollar Foreign Exchange Contracts 
+
+&#160; 
+
+##TABLE_START (Dollars in millions) 
+
+&#160; Exchange 
+
+Foreign Currency 
+
+for United States Dollars 
+
+(Notional Amount) 
+
+&#160; Exchange 
+
+United States Dollars 
+
+for Foreign Currency 
+
+(Notional Amount) 
+
+&#160; Notional 
+
+Weighted Average 
+
+Exchange Rate 
+
+Functional Currency: 
+
+&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; British Pound 
+
+&#160; $ &#150; &#160; $ 8 &#160; 1.63 Canadian Dollar 
+
+&#160; &#160; 1 &#160; &#160; &#150; &#160; 1.39 Chilean Peso 
+
+&#160; &#160; 5 &#160; &#160; &#150; &#160; 713.80 Chinese Renminbi 
+
+&#160; &#160; 72 &#160; &#160; &#150; &#160; 8.27 Danish Krona 
+
+&#160; &#160; &#150; &#160; &#160; 6 &#160; 6.32 Euro 
+
+&#160; &#160; 67 &#160; &#160; &#150; &#160; 1.17 Indian Rupee 
+
+&#160; &#160; &#150; &#160; &#160; 20 &#160; 46.60 Israeli Shekel 
+
+&#160; &#160; 23 &#160; &#160; &#150; &#160; 4.46 Japanese Yen 
+
+&#160; &#160; 39 &#160; &#160; &#150; &#160; 118.11 Korean Won 
+
+&#160; &#160; 4 &#160; &#160; &#150; &#160; 1,211.00 Mexican Peso 
+
+&#160; &#160; 1 &#160; &#160; &#150; &#160; 10.43 New Zealand Dollar 
+
+&#160; &#160; &#150; &#160; &#160; 5 &#160; 0.57 Peruvian New Sol 
+
+&#160; &#160; 3 &#160; &#160; &#150; &#160; 3.52 Philippine Peso 
+
+&#160; &#160; 15 &#160; &#160; &#150; &#160; 54.50 Polish Zloty 
+
+&#160; &#160; &#150; &#160; &#160; 15 &#160; 3.73 Saudi Arabian Riyal 
+
+&#160; &#160; 26 &#160; &#160; &#150; &#160; 3.75 Singapore Dollar 
+
+&#160; &#160; 1 &#160; &#160; &#150; &#160; 1.73 South African Rand 
+
+&#160; &#160; 18 &#160; &#160; &#150; &#160; 8.28 Swiss Franc 
+
+&#160; &#160; &#150; &#160; &#160; 1 &#160; 1.30 Taiwan Dollar 
+
+&#160; &#160; &#150; &#160; &#160; 26 &#160; 34.59 &#160; &#160; &#160; &#160; &#160; Total 
+
+&#160; $ 275 &#160; $ 81 &#160; &#160; &#160; &#160; &#160; &#160; &#160; ##TABLE_END &#160; 
+
+Euro Foreign Exchange Contracts 
+
+&#160; 
+
+##TABLE_START (Euros in millions) 
+
+&#160; Exchange Foreign Currency 
+
+for Euros 
+
+(Notional Amount) 
+
+&#160; Exchange 
+
+Euros for 
+
+Foreign Currency 
+
+(Notional Amount) 
+
+&#160; Notional 
+
+Weighted Average 
+
+Exchange Rate 
+
+Functional Currency: 
+
+&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; Danish Krona 
+
+&#160; &#128; &#160;&#150; &#160; &#128; 2 &#160; 7.42 British Pound 
+
+&#160; &#160; 6 &#160; &#160; &#150; &#160; 0.72 United States Dollar 
+
+&#160; &#160; &#150; &#160; &#160; 7 &#160; 1.17 &#160; &#160; &#160; &#160; &#160; Total 
+
+&#160; &#128; 6 &#160; &#128; 9 &#160; &#160; &#160; &#160; &#160; &#160; &#160; ##TABLE_END &#160; 
+
+Net Investment Risk. Periodically, we hedge the net assets of certain international subsidiaries (&#147;net investment hedges&#148;) using forward foreign currency exchange contracts to offset the translation and economic exposures related to our investments in these subsidiaries. We measure the ineffectiveness of net investment hedges by using the changes in spot exchange rates because this method reflects our risk management strategies, the economics of those strategies in our financial statements and better manages interest rate differentials between 
+
+&#160; 
+
+different countries. Under this method, the change in fair value of the forward contract attributable to the changes in spot exchange rates (the &#147;effective portion&#148;) is reported in stockholders&#146; equity to offset the translation results on the net investments. The remaining change in fair value of the forward contract (the &#147;ineffective portion&#148;) is recognized in other income, net. 
+
+&#160; 
+
+At May 31, 2003, we had one net investment hedge in Japanese Yen. The Yen equity hedge minimizes currency risk arising from net assets held in Yen as a result of equity capital raised during the initial public offering and secondary offering of Oracle Japan. The fair value of our Yen equity hedge was not material to our consolidated financial statements. The Yen equity hedge has a notional amount of $615.1 million and a weighted average exchange rate of 118.4 Yen for United States dollar. We previously had a Euro equity hedge that we settled on September 30, 2002 for an immaterial amount. 
+
+&#160; 
+
+Net gains (losses) on equity hedges reported in stockholders&#146; equity relating to the effective portion of the net investment hedge were $(44.7) million, $(6.9) million and $5.7 million in fiscal 2003, 2002 and 2001, respectively. The net gain on equity hedges reported in other income, net relating to the ineffective portion of the net investment hedges were $8.9 million, $6.4 million and $0 in fiscal 2003, 2002 and 2001, respectively. Prior to our June 1, 2001 adoption of FASB Statement No. 133, Accounting for Derivative Instruments and Hedging Transactions , as amended, we recorded all gains (losses) related to the equity hedges as a component of accumulated other comprehensive income (loss) in stockholders&#146; equity. 
+
+&#160; 
+
+"
+8," Item 8. Financial Statements and Supplementary Data 
+
+&#160; 
+
+The response to this item is submitted as a separate section of this Form 10-K. See Item 15. 
+
+&#160; 
+
+"
